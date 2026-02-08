@@ -22,7 +22,7 @@ The API classifies text messages as either **Spam** or **Not Spam** using a trai
 
 1. **Clone the repository** (if from GitHub):
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Manal5664/fastapi-spam-detection
 cd Project_Fast_Api
 ```
 
